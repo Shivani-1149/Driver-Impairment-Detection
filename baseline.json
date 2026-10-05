@@ -1,0 +1,8 @@
+{
+    "calibration_duration_seconds": 5,
+    "total_frames": 103,
+    "face_detected_frames": 100,
+    "face_detection_ratio": 0.970873786407767,
+    "baseline_ear": 0.2651446587422909,
+    "ear_samples_count": 100
+}
